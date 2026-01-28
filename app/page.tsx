@@ -38,6 +38,24 @@ export default function Home() {
         Contact me
       </a>
       </div>
+
+      <div className="mt-6 flex gap-4">
+        <a 
+        href=""
+        target="_blank"
+        className="px-4 py-2 border rounded-lg"
+        >
+          Whatsapp
+        </a>
+
+        <a 
+        href="mailto:jeyakumarsneha21@gmail.com"
+        className="px-4 py-2 border rounded-lg"
+
+      >
+        Email
+      </a>
+      </div>
  </main>
 );
 }
